@@ -14,4 +14,3 @@ This project is created for practicing front-end basics and improving HTML/CSS s
 - **HTML5**
 - **CSS3**
 
-## 📂 Project Structure
